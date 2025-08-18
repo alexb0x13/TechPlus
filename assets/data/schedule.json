@@ -1,0 +1,165 @@
+{
+  "headers": ["Week", "Mon", "Tue", "Wed", "Thu", "Fri"],
+  "rows": [
+    {
+      "label": "Week 1",
+      "items": [
+        "",
+        { "text": "August 19", "note": "MODULE 1" },
+        "",
+        { "text": "August 21", "note": "MODULE 2" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 2",
+      "items": [
+        "",
+        { "text": "August 26", "note": "MODULE 3" },
+        "",
+        { "text": "August 28", "note": "MODULE 4" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 3",
+      "items": [
+        "",
+        { "text": "September 2", "note": "MODULE 5" },
+        "",
+        { "text": "September 4", "note": "MODULE 5" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 4",
+      "items": [
+        "",
+        { "text": "September 9", "note": "MODULE 6" },
+        "",
+        { "text": "September 11", "note": "MODULE 7" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 5",
+      "items": [
+        "",
+        { "text": "September 16", "note": "MODULE 8" },
+        "",
+        { "text": "September 18", "note": "MODULE 9" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 6",
+      "items": [
+        "",
+        { "text": "September 23", "note": "MODULE 10" },
+        "",
+        { "text": "September 25", "note": "MODULE 10" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 7",
+      "items": [
+        "",
+        { "text": "September 30", "note": "MODULE 11" },
+        "",
+        { "text": "October 2", "note": "TEST STRATEGIES"},
+        ""
+      ]
+    },
+    {
+      "label": "Fall Break",
+      "items": [
+        "",
+        { "text": "October 6", "note": "NO CLASS MEETING" },
+        "",
+        { "text": "October 8", "note": "NO CLASS MEETING" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 8",
+      "items": [
+        "",
+        { "text": "October 14" },
+        "",
+        { "text": "October 16" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 9",
+      "items": [
+        "",
+        { "text": "October 21" },
+        "",
+        { "text": "October 23" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 10",
+      "items": [
+        "",
+        { "text": "October 28" },
+        "",
+        { "text": "October 30" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 11",
+      "items": [
+        "",
+        { "text": "November 4" },
+        "",
+        { "text": "November 6" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 12",
+      "items": [
+        "",
+        { "text": "November 11" },
+        "",
+        { "text": "November 13" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 13",
+      "items": [
+        "",
+        { "text": "November 18" },
+        "",
+        { "text": "November 20" },
+        ""
+      ]
+    },
+    {
+      "label": "Thanksgiving Break",
+      "items": [
+        "",
+        { "text": "November 25", "note": "NO CLASS MEETING" },
+        "",
+        { "text": "November 27", "note": "NO CLASS MEETING" },
+        ""
+      ]
+    },
+    {
+      "label": "Week 14",
+      "items": [
+        "",
+        { "text": "December 1" },
+        "",
+        { "text": "December 3" },
+        ""
+      ]
+    }
+  ]
+}
