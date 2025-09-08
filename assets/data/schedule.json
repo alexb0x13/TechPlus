@@ -37,7 +37,7 @@
         "",
         { "text": "September 9", "note": "MODULE 6" },
         "",
-        { "text": "September 11", "note": "MODULE 7" },
+        { "text": "September 11", "note": "MODULE 6" },
         ""
       ]
     },
@@ -45,9 +45,9 @@
       "label": "Week 5",
       "items": [
         "",
-        { "text": "September 16", "note": "MODULE 8" },
+        { "text": "September 16", "note": "MODULE 7" },
         "",
-        { "text": "September 18", "note": "MODULE 9" },
+        { "text": "September 18", "note": "MODULE 7" },
         ""
       ]
     },
@@ -55,9 +55,9 @@
       "label": "Week 6",
       "items": [
         "",
-        { "text": "September 23", "note": "MODULE 10" },
+        { "text": "September 23", "note": "MODULE 8" },
         "",
-        { "text": "September 25", "note": "MODULE 10" },
+        { "text": "September 25", "note": "MODULE 8" },
         ""
       ]
     },
@@ -65,9 +65,9 @@
       "label": "Week 7",
       "items": [
         "",
-        { "text": "September 30", "note": "MODULE 11" },
+        { "text": "September 30", "note": "MODULE 9" },
         "",
-        { "text": "October 2", "note": "TESTING STRATEGIES"},
+        { "text": "October 2", "note": "MODULE 9"},
         ""
       ]
     },
@@ -85,9 +85,9 @@
       "label": "Week 8",
       "items": [
         "",
-        { "text": "October 14" },
+        { "text": "October 14", "note": "MODULE 10" },
         "",
-        { "text": "October 16" },
+        { "text": "October 16", "note": "MODULE 10" },
         ""
       ]
     },
@@ -95,9 +95,9 @@
       "label": "Week 9",
       "items": [
         "",
-        { "text": "October 21" },
+        { "text": "October 21", "note": "MODULE 11" },
         "",
-        { "text": "October 23" },
+        { "text": "October 23", "note": "MODULE 11" },
         ""
       ]
     },
