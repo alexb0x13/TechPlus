@@ -105,9 +105,9 @@
       "label": "Week 10",
       "items": [
         "",
-        { "text": "October 28" },
+        { "text": "October 28", "note": "REVIEW" },
         "",
-        { "text": "October 30" },
+        { "text": "October 30", "note": "EXAMS: Kris" },
         ""
       ]
     },
@@ -115,9 +115,9 @@
       "label": "Week 11",
       "items": [
         "",
-        { "text": "November 4" },
+        { "text": "November 4", "note": "EXAMS: Cervesato" },
         "",
-        { "text": "November 6" },
+        { "text": "November 6", "note": "EXAMS: Mark; Dominic" },
         ""
       ]
     },
@@ -127,7 +127,7 @@
         "",
         { "text": "November 11" },
         "",
-        { "text": "November 13" },
+        { "text": "November 13", "note": "EXAMS: Liz; Eliezer" },
         ""
       ]
     },
@@ -135,9 +135,9 @@
       "label": "Week 13",
       "items": [
         "",
-        { "text": "November 18" },
+        { "text": "November 18", "note": "EXAMS: Luis; Nhaim\n@7:15pm Jean; Sabrina" },
         "",
-        { "text": "November 20" },
+        { "text": "November 20", "note": "EXAMS: Nicole; See" },
         ""
       ]
     },

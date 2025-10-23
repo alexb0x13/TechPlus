@@ -48,11 +48,14 @@ async function renderSchedule() {
           // Just use the text and note if present, no link
           div.textContent = cell.text ?? '';
           if (cell.note) {
-            const small = document.createElement('div');
-            const isWarning = cell.note.includes('NO CLASS') || cell.note.includes('Break');
-            small.className = 'small' + (isWarning ? ' warn' : ' muted');
-            small.textContent = cell.note;
-            div.appendChild(small);
+            const notes = String(cell.note).split('\n');
+            for (const n of notes) {
+              const small = document.createElement('div');
+              const isWarning = n.includes('NO CLASS') || n.includes('Break') || n.includes('EXAMS') || n.includes("@");
+              small.className = 'small' + (isWarning ? ' warn' : ' muted');
+              small.textContent = n;
+              div.appendChild(small);
+            }
           }
         }
         container.appendChild(div);
